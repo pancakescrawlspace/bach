@@ -1,0 +1,2625 @@
+{
+ "_source": "en.wikipedia.org/wiki/List_of_chorale_harmonisations_by_Johann_Sebastian_Bach (CC BY-SA 4.0), extracted 2026-10-20: chorale text incipit, verse, Riemenschneider number per BWV",
+ "1.6": {
+  "hymn": "Wie schön leuchtet der Morgenstern",
+  "verse": "v. 7",
+  "riemenschneider": null,
+  "bwv": "0001/6"
+ },
+ "2.6": {
+  "hymn": "Ach Gott, vom Himmel sieh darein",
+  "verse": "v. 6",
+  "riemenschneider": "262",
+  "bwv": "0002/6"
+ },
+ "3.6": {
+  "hymn": "Ach Gott, wie manches Herzeleid",
+  "verse": "v. 18",
+  "riemenschneider": "156",
+  "bwv": "0003/6"
+ },
+ "4.8": {
+  "hymn": "Christ lag in Todesbanden",
+  "verse": "v. 7",
+  "riemenschneider": "184",
+  "bwv": "0004/8"
+ },
+ "5.7": {
+  "hymn": "Wo soll ich fliehen hin",
+  "verse": "v. 11",
+  "riemenschneider": "304",
+  "bwv": "0005/7"
+ },
+ "6.6": {
+  "hymn": "Erhalt uns, Herr, bei deinem Wort",
+  "verse": "v. 2",
+  "riemenschneider": "72",
+  "bwv": "0006/6"
+ },
+ "7.7": {
+  "hymn": "Christ unser Herr zum Jordan kam",
+  "verse": "v. 7",
+  "riemenschneider": null,
+  "bwv": "0007/7"
+ },
+ "8.6": {
+  "hymn": "Liebster Gott, wenn werd ich sterben",
+  "verse": "v. 5",
+  "riemenschneider": "43",
+  "bwv": "0008/6"
+ },
+ "9.7": {
+  "hymn": "Es ist das Heil uns kommen her",
+  "verse": "vv. 7–8",
+  "riemenschneider": "290",
+  "bwv": "0009/7"
+ },
+ "10.7": {
+  "hymn": "Meine Seele erhebt den Herren (doxology)",
+  "verse": null,
+  "riemenschneider": "358",
+  "bwv": "0010/7"
+ },
+ "11.6": {
+  "hymn": "Du Lebensfürst, Herr Jesu Christ",
+  "verse": "v. 4",
+  "riemenschneider": "343",
+  "bwv": "0011/6"
+ },
+ "12.7": {
+  "hymn": "Was Gott tut, das ist wohlgetan",
+  "verse": "v. 6",
+  "riemenschneider": null,
+  "bwv": "0012/7"
+ },
+ "13.6": {
+  "hymn": "In allen meinen Taten",
+  "verse": "v. 15",
+  "riemenschneider": "103",
+  "bwv": "0013/6"
+ },
+ "14.5": {
+  "hymn": "Wär Gott nicht mit uns diese Zeit",
+  "verse": "v. 3",
+  "riemenschneider": "182",
+  "bwv": "0014/5"
+ },
+ "16.6": {
+  "hymn": "Helft mir Gotts Güte preisen",
+  "verse": "v. 5",
+  "riemenschneider": "99",
+  "bwv": "0016/6"
+ },
+ "17.7": {
+  "hymn": "Nun lob, mein Seel, den Herren",
+  "verse": "v. 3",
+  "riemenschneider": "7",
+  "bwv": "0017/7"
+ },
+ "18.5": {
+  "hymn": "Durch Adams Fall ist ganz verderbt",
+  "verse": "v. 8",
+  "riemenschneider": "100",
+  "bwv": "0018/5"
+ },
+ "19.7": {
+  "hymn": "Freu dich sehr, o meine Seele",
+  "verse": "v. 9",
+  "riemenschneider": "298",
+  "bwv": "0019/7"
+ },
+ "20.7": {
+  "hymn": "O Ewigkeit, du Donnerwort",
+  "verse": "vv. 11, 16",
+  "riemenschneider": "26",
+  "bwv": "0020/7, /11"
+ },
+ "20.11": {
+  "hymn": "O Ewigkeit, du Donnerwort",
+  "verse": "vv. 11, 16",
+  "riemenschneider": "26",
+  "bwv": "0020/7, /11"
+ },
+ "22.5": {
+  "hymn": "Herr Christ, der einge Gottessohn",
+  "verse": "v. 5",
+  "riemenschneider": null,
+  "bwv": "0022/5"
+ },
+ "24.6": {
+  "hymn": "O Gott, du frommer Gott",
+  "verse": "v. 1",
+  "riemenschneider": "337",
+  "bwv": "0024/6"
+ },
+ "25.6": {
+  "hymn": "Treuer Gott, ich muss dir klagen",
+  "verse": "v. 12",
+  "riemenschneider": "254",
+  "bwv": "0025/6"
+ },
+ "26.6": {
+  "hymn": "Ach wie flüchtig, ach wie nichtig",
+  "verse": "v. 8",
+  "riemenschneider": "48",
+  "bwv": "0026/6"
+ },
+ "28.6": {
+  "hymn": "Helft mir Gotts Güte preisen",
+  "verse": "v. 6",
+  "riemenschneider": "23",
+  "bwv": "0028/6"
+ },
+ "29.8": {
+  "hymn": "Nun lob, mein Seel, den Herren",
+  "verse": "v. 5",
+  "riemenschneider": "116",
+  "bwv": "0029/8"
+ },
+ "30.6": {
+  "hymn": "Tröstet, tröstet meine Lieben",
+  "verse": "v. 3",
+  "riemenschneider": "76",
+  "bwv": "0030/6"
+ },
+ "31.9": {
+  "hymn": "Wenn mein Stündlein vorhanden ist",
+  "verse": "v. 5",
+  "riemenschneider": null,
+  "bwv": "0031/9"
+ },
+ "32.6": {
+  "hymn": "Weg, mein Herz, mit den Gedanken",
+  "verse": "v. 12",
+  "riemenschneider": "29",
+  "bwv": "0032/6"
+ },
+ "33.6": {
+  "hymn": "Allein zu dir, Herr Jesu Christ",
+  "verse": "v. 4",
+  "riemenschneider": "13",
+  "bwv": "0033/6"
+ },
+ "36.4": {
+  "hymn": "Wie schön leuchtet der Morgenstern",
+  "verse": "v. 6",
+  "riemenschneider": "86",
+  "bwv": "0036/4"
+ },
+ "36.4.5": {
+  "hymn": "Wie schön leuchtet der Morgenstern",
+  "verse": "v. 7",
+  "riemenschneider": null,
+  "bwv": "0036.4/5"
+ },
+ "36.8": {
+  "hymn": "Nun komm, der Heiden Heiland",
+  "verse": "v. 8",
+  "riemenschneider": "28",
+  "bwv": "0036/8"
+ },
+ "37.6": {
+  "hymn": "Ich dank dir, lieber Herre",
+  "verse": "v. 4",
+  "riemenschneider": "341",
+  "bwv": "0037/6"
+ },
+ "38.6": {
+  "hymn": "Aus tiefer Not schrei ich zu dir",
+  "verse": "v. 5",
+  "riemenschneider": "10",
+  "bwv": "0038/6"
+ },
+ "39.7": {
+  "hymn": "Kommt, laßt euch den Herren lehren",
+  "verse": "v. 6",
+  "riemenschneider": "67",
+  "bwv": "0039/7"
+ },
+ "40.3": {
+  "hymn": "Wir Christenleut habn jetzund Freud",
+  "verse": "v. 3",
+  "riemenschneider": "321",
+  "bwv": "0040/3"
+ },
+ "40.6": {
+  "hymn": "Schwing dich auf zu deinem Gott",
+  "verse": "v. 2",
+  "riemenschneider": "142",
+  "bwv": "0040/6"
+ },
+ "40.8": {
+  "hymn": "Freuet euch, ihr Christen alle",
+  "verse": "v. 4",
+  "riemenschneider": "8",
+  "bwv": "0040/8"
+ },
+ "41.6": {
+  "hymn": "Jesu, nun sei gepreiset",
+  "verse": "v. 3",
+  "riemenschneider": "11",
+  "bwv": "0041/6"
+ },
+ "42.7": {
+  "hymn": "Verleih uns Frieden gnädlich (complete)",
+  "verse": null,
+  "riemenschneider": "91",
+  "bwv": "0042/7"
+ },
+ "43.11": {
+  "hymn": "Du Lebensfürst, Herr Jesu Christ",
+  "verse": "vv. 1, 13",
+  "riemenschneider": "102",
+  "bwv": "0043/11"
+ },
+ "44.7": {
+  "hymn": "In allen meinen Taten",
+  "verse": "v. 9",
+  "riemenschneider": "355",
+  "bwv": "0044/7"
+ },
+ "45.7": {
+  "hymn": "O Gott, du frommer Gott",
+  "verse": "v. 2",
+  "riemenschneider": "85",
+  "bwv": "0045/7"
+ },
+ "46.6": {
+  "hymn": "O großer Gott von Macht",
+  "verse": "v. 9",
+  "riemenschneider": "82",
+  "bwv": "0046/6"
+ },
+ "47.5": {
+  "hymn": "Warum betrübst du dich, mein Herz",
+  "verse": "v. 11",
+  "riemenschneider": "94",
+  "bwv": "0047/5"
+ },
+ "48.3": {
+  "hymn": "Ach Gott und Herr",
+  "verse": "v. 4",
+  "riemenschneider": "279",
+  "bwv": "0048/3"
+ },
+ "48.7": {
+  "hymn": "Herr Jesu Christ, ich schrei zu dir",
+  "verse": "v. 12",
+  "riemenschneider": "266",
+  "bwv": "0048/7"
+ },
+ "52.6": {
+  "hymn": "In dich hab ich gehoffet, Herr",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0052/6"
+ },
+ "55.5": {
+  "hymn": "Werde munter, mein Gemüte",
+  "verse": "v. 6",
+  "riemenschneider": "95",
+  "bwv": "0055/5"
+ },
+ "56.5": {
+  "hymn": "Du, o schönes Weltgebäude",
+  "verse": "v. 6",
+  "riemenschneider": "87",
+  "bwv": "0056/5"
+ },
+ "57.8": {
+  "hymn": "Hast du denn, Jesu, dein Angesicht",
+  "verse": "v. 6",
+  "riemenschneider": "90",
+  "bwv": "0057/8"
+ },
+ "59.3": {
+  "hymn": "Komm, Heiliger Geist, Herre Gott",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0059/3"
+ },
+ "60.5": {
+  "hymn": "Es ist genug",
+  "verse": "v. 5",
+  "riemenschneider": "216",
+  "bwv": "0060/5"
+ },
+ "62.6": {
+  "hymn": "Nun komm, der Heiden Heiland",
+  "verse": "v. 8",
+  "riemenschneider": "170",
+  "bwv": "0062/6"
+ },
+ "64.2": {
+  "hymn": "Gelobet seist du, Jesu Christ",
+  "verse": "v. 7",
+  "riemenschneider": "160",
+  "bwv": "0064/2"
+ },
+ "64.4": {
+  "hymn": "Was frag ich nach der Welt",
+  "verse": "v. 1",
+  "riemenschneider": "255",
+  "bwv": "0064/4"
+ },
+ "64.8": {
+  "hymn": "Jesu, meine Freude",
+  "verse": "v. 5",
+  "riemenschneider": "138",
+  "bwv": "0064/8"
+ },
+ "65.2": {
+  "hymn": "Ein Kind geborn zu Bethlehem",
+  "verse": "v. 4",
+  "riemenschneider": "12",
+  "bwv": "0065/2"
+ },
+ "65.7": {
+  "hymn": "Ich hab in Gottes Herz und Sinn",
+  "verse": "v. 10",
+  "riemenschneider": "41",
+  "bwv": "0065/7"
+ },
+ "66.6": {
+  "hymn": "Christ ist erstanden",
+  "verse": "v. 3",
+  "riemenschneider": null,
+  "bwv": "0066/6"
+ },
+ "67.4": {
+  "hymn": "Erschienen ist der herrlich Tag",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0067/4"
+ },
+ "67.7": {
+  "hymn": "Du Friedefürst, Herr Jesu Christ",
+  "verse": "v. 1",
+  "riemenschneider": "42",
+  "bwv": "0067/7"
+ },
+ "69.6": {
+  "hymn": "Es woll uns Gott genädig sein",
+  "verse": "v. 3",
+  "riemenschneider": "333",
+  "bwv": "0069/6"
+ },
+ "69a.6": {
+  "hymn": "Was Gott tut, das ist wohlgetan",
+  "verse": "v. 6",
+  "riemenschneider": "293",
+  "bwv": "0069a/6"
+ },
+ "70.7": {
+  "hymn": "Freu dich sehr, o meine Seele",
+  "verse": "v. 10",
+  "riemenschneider": null,
+  "bwv": "0070/7"
+ },
+ "70.11": {
+  "hymn": "Meinen Jesum laß ich nicht, weil ...",
+  "verse": "v. 5",
+  "riemenschneider": "348",
+  "bwv": "0070/11"
+ },
+ "72.6": {
+  "hymn": "Was mein Gott will, das g'scheh allzeit",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0072/6"
+ },
+ "73.5": {
+  "hymn": "Von Gott will ich nicht lassen",
+  "verse": "v. 9",
+  "riemenschneider": "191",
+  "bwv": "0073/5"
+ },
+ "74.8": {
+  "hymn": "Gott Vater, sende deinen Geist",
+  "verse": "v. 2",
+  "riemenschneider": "370",
+  "bwv": "0074/8"
+ },
+ "75.7": {
+  "hymn": "Was Gott tut, das ist wohlgetan",
+  "verse": "vv. 5–6",
+  "riemenschneider": null,
+  "bwv": "0075/7, /14"
+ },
+ "75.14": {
+  "hymn": "Was Gott tut, das ist wohlgetan",
+  "verse": "vv. 5–6",
+  "riemenschneider": null,
+  "bwv": "0075/7, /14"
+ },
+ "76.7": {
+  "hymn": "Es woll uns Gott genädig sein",
+  "verse": "vv. 1, 3",
+  "riemenschneider": null,
+  "bwv": "0076/7, /14"
+ },
+ "76.14": {
+  "hymn": "Es woll uns Gott genädig sein",
+  "verse": "vv. 1, 3",
+  "riemenschneider": null,
+  "bwv": "0076/7, /14"
+ },
+ "77.6": {
+  "hymn": "Wenn einer alle Ding verstünd (v. 8)?",
+  "verse": null,
+  "riemenschneider": "253",
+  "bwv": "0077/6"
+ },
+ "78.7": {
+  "hymn": "Jesu, der du meine Seele",
+  "verse": "v. 12",
+  "riemenschneider": "297",
+  "bwv": "0078/7"
+ },
+ "79.3": {
+  "hymn": "Nun danket alle Gott",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0079/3"
+ },
+ "79.6": {
+  "hymn": "Nun laßt uns Gott dem Herren",
+  "verse": "v. 8",
+  "riemenschneider": null,
+  "bwv": "0079/6"
+ },
+ "80.2.1": {
+  "hymn": "Ein feste Burg ist unser Gott",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0080.2/1"
+ },
+ "80.8": {
+  "hymn": "Ein feste Burg ist unser Gott",
+  "verse": "v. 4",
+  "riemenschneider": "273",
+  "bwv": "0080/8"
+ },
+ "81.7": {
+  "hymn": "Jesu, meine Freude",
+  "verse": "v. 2",
+  "riemenschneider": "324",
+  "bwv": "0081/7"
+ },
+ "83.5": {
+  "hymn": "Mit Fried und Freud ich fahr dahin",
+  "verse": "v. 4",
+  "riemenschneider": "325",
+  "bwv": "0083/5"
+ },
+ "84.5": {
+  "hymn": "Wer weiß, wie nahe mir mein Ende",
+  "verse": "v. 12",
+  "riemenschneider": "112",
+  "bwv": "0084/5"
+ },
+ "85.6": {
+  "hymn": "Ist Gott mein Schild und Helfersmann",
+  "verse": "v. 4",
+  "riemenschneider": "122",
+  "bwv": "0085/6"
+ },
+ "86.6": {
+  "hymn": "Es ist das Heil uns kommen her",
+  "verse": "v. 11",
+  "riemenschneider": "4",
+  "bwv": "0086/6"
+ },
+ "87.7": {
+  "hymn": "Selig ist die Seele",
+  "verse": "v. 9",
+  "riemenschneider": "96",
+  "bwv": "0087/7"
+ },
+ "88.7": {
+  "hymn": "Wer nur den lieben Gott läßt walten",
+  "verse": "v. 8",
+  "riemenschneider": "104",
+  "bwv": "0088/7"
+ },
+ "89.6": {
+  "hymn": "Wo soll ich fliehen hin",
+  "verse": "v. 7",
+  "riemenschneider": "281",
+  "bwv": "0089/6"
+ },
+ "90.5": {
+  "hymn": "Nimm von uns, Herr, du treuer Gott",
+  "verse": "v. 7",
+  "riemenschneider": "267",
+  "bwv": "0090/5"
+ },
+ "91.6": {
+  "hymn": "Gelobet seist du, Jesu Christ",
+  "verse": "v. 7",
+  "riemenschneider": "51",
+  "bwv": "0091/6"
+ },
+ "92.9": {
+  "hymn": "Ich hab in Gottes Herz und Sinn",
+  "verse": "v. 12",
+  "riemenschneider": null,
+  "bwv": "0092/9"
+ },
+ "93.7": {
+  "hymn": "Wer nur den lieben Gott läßt walten",
+  "verse": "v. 7",
+  "riemenschneider": null,
+  "bwv": "0093/7"
+ },
+ "94.8": {
+  "hymn": "Was frag ich nach der Welt",
+  "verse": "vv. 7–8",
+  "riemenschneider": "291",
+  "bwv": "0094/8"
+ },
+ "95.7": {
+  "hymn": "Wenn mein Stündlein vorhanden ist",
+  "verse": "v. 4",
+  "riemenschneider": null,
+  "bwv": "0095/7"
+ },
+ "96.6": {
+  "hymn": "Herr Christ, der einge Gottessohn",
+  "verse": "v. 5",
+  "riemenschneider": "303",
+  "bwv": "0096/6"
+ },
+ "97.9": {
+  "hymn": "In allen meinen Taten",
+  "verse": "v. 9",
+  "riemenschneider": null,
+  "bwv": "0097/9"
+ },
+ "99.6": {
+  "hymn": "Was Gott tut, das ist wohlgetan",
+  "verse": "v. 6",
+  "riemenschneider": null,
+  "bwv": "0099/6"
+ },
+ "100.6": {
+  "hymn": "Was Gott tut, das ist wohlgetan",
+  "verse": "v. 6",
+  "riemenschneider": null,
+  "bwv": "0100/6"
+ },
+ "101.7": {
+  "hymn": "Nimm von uns, Herr, du treuer Gott",
+  "verse": "v. 7",
+  "riemenschneider": "292",
+  "bwv": "0101/7"
+ },
+ "102.7": {
+  "hymn": "So wahr ich lebe, spricht dein Gott",
+  "verse": "v. 6",
+  "riemenschneider": "110",
+  "bwv": "0102/7"
+ },
+ "103.6": {
+  "hymn": "Barmherzger Vater, höchster Gott",
+  "verse": "v. 9",
+  "riemenschneider": "120",
+  "bwv": "0103/6"
+ },
+ "104.6": {
+  "hymn": "Der Herr ist mein getreuer Hirt",
+  "verse": "v. 1",
+  "riemenschneider": "125",
+  "bwv": "0104/6"
+ },
+ "105.6": {
+  "hymn": "Jesu, der du meine Seele",
+  "verse": "v. 11",
+  "riemenschneider": null,
+  "bwv": "0105/6"
+ },
+ "107.7": {
+  "hymn": "Was willst du dich betrüben",
+  "verse": "v. 7",
+  "riemenschneider": null,
+  "bwv": "0107/7"
+ },
+ "108.6": {
+  "hymn": "Gott Vater, sende deinen Geist",
+  "verse": "v. 10",
+  "riemenschneider": "45",
+  "bwv": "0108/6"
+ },
+ "110.7": {
+  "hymn": "Wir Christenleut habn jetzund Freud",
+  "verse": "v. 5",
+  "riemenschneider": "55",
+  "bwv": "0110/7"
+ },
+ "111.6": {
+  "hymn": "Was mein Gott will, das g'scheh allzeit",
+  "verse": "v. 4",
+  "riemenschneider": null,
+  "bwv": "0111/6"
+ },
+ "112.5": {
+  "hymn": "Der Herr ist mein getreuer Hirt",
+  "verse": "v. 5",
+  "riemenschneider": "313",
+  "bwv": "0112/5"
+ },
+ "113.1": {
+  "hymn": "Herr Jesu Christ, du höchstes Gut",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0113/1"
+ },
+ "113.8": {
+  "hymn": "Herr Jesu Christ, du höchstes Gut",
+  "verse": "v. 8",
+  "riemenschneider": "294",
+  "bwv": "0113/8"
+ },
+ "114.7": {
+  "hymn": "Ach lieben Christen, seid getrost",
+  "verse": "v. 6",
+  "riemenschneider": "301",
+  "bwv": "0114/7"
+ },
+ "115.6": {
+  "hymn": "Mache dich, mein Geist, bereit",
+  "verse": "v. 10",
+  "riemenschneider": "38",
+  "bwv": "0115/6"
+ },
+ "116.6": {
+  "hymn": "Du Friedefürst, Herr Jesu Christ",
+  "verse": "v. 7",
+  "riemenschneider": null,
+  "bwv": "0116/6"
+ },
+ "117.4": {
+  "hymn": "Sei Lob und Ehr dem höchsten Gut",
+  "verse": "vv. 4, 9",
+  "riemenschneider": "248",
+  "bwv": "0117/4, /9"
+ },
+ "117.9": {
+  "hymn": "Sei Lob und Ehr dem höchsten Gut",
+  "verse": "vv. 4, 9",
+  "riemenschneider": "248",
+  "bwv": "0117/4, /9"
+ },
+ "119.9": {
+  "hymn": "Herr Gott, dich loben wir",
+  "verse": "vv. 38–41",
+  "riemenschneider": null,
+  "bwv": "0119/9"
+ },
+ "120.6": {
+  "hymn": "Herr Gott, dich loben wir",
+  "verse": "vv. 34–41",
+  "riemenschneider": null,
+  "bwv": "0120/6"
+ },
+ "120a.8": {
+  "hymn": "Lobe den Herren, den mächtigen ...",
+  "verse": "vv. 4–5",
+  "riemenschneider": null,
+  "bwv": "0120a/8"
+ },
+ "121.6": {
+  "hymn": "Christum wir sollen loben schon",
+  "verse": "v. 8",
+  "riemenschneider": "56",
+  "bwv": "0121/6"
+ },
+ "122.6": {
+  "hymn": "Das neugeborne Kindelein",
+  "verse": "v. 4",
+  "riemenschneider": "53",
+  "bwv": "0122/6"
+ },
+ "123.6": {
+  "hymn": "Liebster Immanuel, Herzog ...",
+  "verse": "v. 6",
+  "riemenschneider": "194",
+  "bwv": "0123/6"
+ },
+ "124.6": {
+  "hymn": "Meinen Jesum laß ich nicht, weil ...",
+  "verse": "v. 6",
+  "riemenschneider": null,
+  "bwv": "0124/6"
+ },
+ "125.6": {
+  "hymn": "Mit Fried und Freud ich fahr dahin",
+  "verse": "v. 4",
+  "riemenschneider": null,
+  "bwv": "0125/6"
+ },
+ "126.6": {
+  "hymn": "Verleih uns Frieden gnädlich (complete)",
+  "verse": null,
+  "riemenschneider": "215",
+  "bwv": "0126/6"
+ },
+ "127.5": {
+  "hymn": "Herr Jesu Christ, wahr Mensch und Gott",
+  "verse": "v. 8",
+  "riemenschneider": "384",
+  "bwv": "0127/5"
+ },
+ "128.5": {
+  "hymn": "O Jesu, meine Lust [wikisource:de]",
+  "verse": "v. 4",
+  "riemenschneider": null,
+  "bwv": "0128/5"
+ },
+ "129.5": {
+  "hymn": "Gelobet sei der Herr, mein Gott",
+  "verse": "v. 5",
+  "riemenschneider": null,
+  "bwv": "0129/5"
+ },
+ "130.6": {
+  "hymn": "Herr Gott, dich loben alle wir",
+  "verse": "v. 11",
+  "riemenschneider": null,
+  "bwv": "0130/6"
+ },
+ "133.6": {
+  "hymn": "Ich freue mich in dir",
+  "verse": "v. 4",
+  "riemenschneider": "60",
+  "bwv": "0133/6"
+ },
+ "135.6": {
+  "hymn": "Ach Herr, mich armen Sünder",
+  "verse": "v. 6",
+  "riemenschneider": null,
+  "bwv": "0135/6"
+ },
+ "136.6": {
+  "hymn": "Wo soll ich fliehen hin",
+  "verse": "v. 9",
+  "riemenschneider": "331",
+  "bwv": "0136/6"
+ },
+ "137.5": {
+  "hymn": "Lobe den Herren, den mächtigen ...",
+  "verse": "v. 5",
+  "riemenschneider": null,
+  "bwv": "0137/5"
+ },
+ "139.6": {
+  "hymn": "Wohl dem, der sich auf seinen Gott",
+  "verse": "v. 5",
+  "riemenschneider": null,
+  "bwv": "0139/6"
+ },
+ "140.7": {
+  "hymn": "Wachet auf, ruft uns die Stimme",
+  "verse": "v. 3",
+  "riemenschneider": "179",
+  "bwv": "0140/7"
+ },
+ "144.3": {
+  "hymn": "Was Gott tut, das ist wohlgetan",
+  "verse": "v. 1",
+  "riemenschneider": "65",
+  "bwv": "0144/3"
+ },
+ "144.6": {
+  "hymn": "Was mein Gott will, das g'scheh allzeit",
+  "verse": "v. 1",
+  "riemenschneider": "265",
+  "bwv": "0144/6"
+ },
+ "145-a": {
+  "hymn": "Auf, mein Herz, des Herren Tag",
+  "verse": "v. 1",
+  "riemenschneider": "338",
+  "bwv": "0145/a"
+ },
+ "145.5": {
+  "hymn": "Erschienen ist der herrlich Tag",
+  "verse": "v. 4",
+  "riemenschneider": "17",
+  "bwv": "0145/5"
+ },
+ "146.8": {
+  "hymn": "Freu dich sehr, o meine Seele (v. 1)?",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0146/8"
+ },
+ "147.6": {
+  "hymn": "Jesu, meiner Seelen Wonne",
+  "verse": "vv. 6, 16",
+  "riemenschneider": null,
+  "bwv": "0147/6, /10"
+ },
+ "147.10": {
+  "hymn": "Jesu, meiner Seelen Wonne",
+  "verse": "vv. 6, 16",
+  "riemenschneider": null,
+  "bwv": "0147/6, /10"
+ },
+ "148.6": {
+  "hymn": "Wo soll ich fliehen hin",
+  "verse": null,
+  "riemenschneider": "25",
+  "bwv": "0148/6"
+ },
+ "149.7": {
+  "hymn": "Herzlich lieb hab ich dich, o Herr",
+  "verse": "v. 3",
+  "riemenschneider": null,
+  "bwv": "0149/7"
+ },
+ "151.5": {
+  "hymn": "Lobt Gott, ihr Christen, allzugleich",
+  "verse": "v. 8",
+  "riemenschneider": "54",
+  "bwv": "0151/5"
+ },
+ "153.1": {
+  "hymn": "Schau, lieber Gott, wie meine Feind",
+  "verse": "v. 1",
+  "riemenschneider": "3",
+  "bwv": "0153/1"
+ },
+ "153.5": {
+  "hymn": "Befiehl du deine Wege",
+  "verse": "v. 5",
+  "riemenschneider": "21",
+  "bwv": "0153/5"
+ },
+ "153.9": {
+  "hymn": "Ach Gott, wie manches Herzeleid",
+  "verse": "vv. 16–18",
+  "riemenschneider": "217",
+  "bwv": "0153/9"
+ },
+ "154.3": {
+  "hymn": "Jesu, meiner Seelen Wonne",
+  "verse": "v. 2",
+  "riemenschneider": "233",
+  "bwv": "0154/3"
+ },
+ "154.8": {
+  "hymn": "Meinen Jesum laß ich nicht, weil ...",
+  "verse": "v. 6",
+  "riemenschneider": "152",
+  "bwv": "0154/8"
+ },
+ "155.5": {
+  "hymn": "Es ist das Heil uns kommen her",
+  "verse": "v. 12",
+  "riemenschneider": "335",
+  "bwv": "0155/5"
+ },
+ "156.6": {
+  "hymn": "Herr, wie du willst, so schicks ...",
+  "verse": "v. 1",
+  "riemenschneider": "317",
+  "bwv": "0156/6"
+ },
+ "157.5": {
+  "hymn": "Meinen Jesum laß ich nicht, weil ...",
+  "verse": "v. 6",
+  "riemenschneider": null,
+  "bwv": "0157/5"
+ },
+ "158.4": {
+  "hymn": "Christ lag in Todesbanden",
+  "verse": "v. 5",
+  "riemenschneider": null,
+  "bwv": "0158/4"
+ },
+ "159.5": {
+  "hymn": "Jesu Leiden, Pein und Tod",
+  "verse": "v. 33",
+  "riemenschneider": "61",
+  "bwv": "0159/5"
+ },
+ "161.6": {
+  "hymn": "Herzlich tut mich verlangen",
+  "verse": "v. 4",
+  "riemenschneider": "270",
+  "bwv": "0161/6"
+ },
+ "162.6": {
+  "hymn": "Alle Menschen müssen sterben",
+  "verse": "v. 7",
+  "riemenschneider": null,
+  "bwv": "0162/6"
+ },
+ "164.6": {
+  "hymn": "Herr Christ, der einge Gottessohn",
+  "verse": "v. 5",
+  "riemenschneider": "101",
+  "bwv": "0164/6"
+ },
+ "165.6": {
+  "hymn": "Nun laßt uns Gott dem Herren",
+  "verse": "v. 5",
+  "riemenschneider": null,
+  "bwv": "0165/6"
+ },
+ "166.6": {
+  "hymn": "Wer weiß, wie nahe mir mein Ende",
+  "verse": "v. 1",
+  "riemenschneider": "204",
+  "bwv": "0166/6"
+ },
+ "167.5": {
+  "hymn": "Nun lob, mein Seel, den Herren",
+  "verse": "v. 5",
+  "riemenschneider": null,
+  "bwv": "0167/5"
+ },
+ "168.6": {
+  "hymn": "Herr Jesu Christ, du höchstes Gut",
+  "verse": "v. 8",
+  "riemenschneider": "92",
+  "bwv": "0168/6"
+ },
+ "169.7": {
+  "hymn": "Nun bitten wir den Heiligen Geist",
+  "verse": "v. 3",
+  "riemenschneider": "97",
+  "bwv": "0169/7"
+ },
+ "171.6": {
+  "hymn": "Jesu, nun sei gepreiset",
+  "verse": "v. 2",
+  "riemenschneider": null,
+  "bwv": "0171/6"
+ },
+ "172.6": {
+  "hymn": "Wie schön leuchtet der Morgenstern",
+  "verse": "v. 4",
+  "riemenschneider": "323",
+  "bwv": "0172/6"
+ },
+ "174.5": {
+  "hymn": "Herzlich lieb hab ich dich, o Herr",
+  "verse": "v. 1",
+  "riemenschneider": "58",
+  "bwv": "0174/5"
+ },
+ "175.7": {
+  "hymn": "O Gottes Geist, mein Trost und Rat",
+  "verse": "v. 9",
+  "riemenschneider": null,
+  "bwv": "0175/7"
+ },
+ "176.6": {
+  "hymn": "Was alle Weisheit in der Welt",
+  "verse": "v. 8",
+  "riemenschneider": "119",
+  "bwv": "0176/6"
+ },
+ "177.5": {
+  "hymn": "Ich ruf zu dir, Herr Jesu Christ",
+  "verse": "v. 5",
+  "riemenschneider": "71",
+  "bwv": "0177/5"
+ },
+ "178.7": {
+  "hymn": "Wo Gott der Herr nicht bei uns hält",
+  "verse": "vv. 7–8",
+  "riemenschneider": null,
+  "bwv": "0178/7"
+ },
+ "179.6": {
+  "hymn": "Ich armer Mensch, ich armer Sünder",
+  "verse": "v. 1",
+  "riemenschneider": "339",
+  "bwv": "0179/6"
+ },
+ "180.7": {
+  "hymn": "Schmücke dich, o liebe Seele",
+  "verse": "v. 9",
+  "riemenschneider": "22",
+  "bwv": "0180/7"
+ },
+ "183.5": {
+  "hymn": "Zeuch ein zu deinen Toren",
+  "verse": "v. 5",
+  "riemenschneider": "123",
+  "bwv": "0183/5"
+ },
+ "184.5": {
+  "hymn": "O Herre Gott, dein göttlich Wort",
+  "verse": "v. 8",
+  "riemenschneider": "14",
+  "bwv": "0184/5"
+ },
+ "185.6": {
+  "hymn": "Ich ruf zu dir, Herr Jesu Christ",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0185/6"
+ },
+ "187.7": {
+  "hymn": "Singen wir aus Herzensgrund",
+  "verse": "v. 4",
+  "riemenschneider": "109",
+  "bwv": "0187/7"
+ },
+ "188.6": {
+  "hymn": "Auf meinen lieben Gott",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0188/6"
+ },
+ "190.7": {
+  "hymn": "Jesu, nun sei gepreiset",
+  "verse": "v. 2",
+  "riemenschneider": "327",
+  "bwv": "0190/7"
+ },
+ "194.6": {
+  "hymn": "Treuer Gott, ich muss dir klagen",
+  "verse": "v. 6",
+  "riemenschneider": "64",
+  "bwv": "0194/6"
+ },
+ "194.12": {
+  "hymn": "Wach auf, mein Herz, und singe",
+  "verse": "vv. 9–10",
+  "riemenschneider": "93",
+  "bwv": "0194/12"
+ },
+ "195.6": {
+  "hymn": "Nun danket all und bringet Ehr",
+  "verse": "v. 1",
+  "riemenschneider": null,
+  "bwv": "0195/6"
+ },
+ "197.5": {
+  "hymn": "Nun bitten wir den Heiligen Geist",
+  "verse": "v. 3",
+  "riemenschneider": "84",
+  "bwv": "0197/5"
+ },
+ "197.10": {
+  "hymn": "Wer nur den lieben Gott läßt walten",
+  "verse": "v. 7",
+  "riemenschneider": "62",
+  "bwv": "0197/10"
+ },
+ "197a.7": {
+  "hymn": "Ich freue mich in dir",
+  "verse": "v. 4",
+  "riemenschneider": null,
+  "bwv": "0197a/7"
+ },
+ "226.2": {
+  "hymn": "Komm, Heiliger Geist, Herre Gott",
+  "verse": "v. 3",
+  "riemenschneider": "69",
+  "bwv": "0226/2"
+ },
+ "227.1": {
+  "hymn": "Jesu, meine Freude",
+  "verse": "vv. 1, 6",
+  "riemenschneider": "263",
+  "bwv": "0227/1, 11"
+ },
+ "227.3": {
+  "hymn": "Jesu, meine Freude",
+  "verse": "v. 2",
+  "riemenschneider": null,
+  "bwv": "0227/3"
+ },
+ "227.7": {
+  "hymn": "Jesu, meine Freude",
+  "verse": "v. 4",
+  "riemenschneider": "283",
+  "bwv": "0227/7"
+ },
+ "227.11": {
+  "hymn": "Jesu, meine Freude",
+  "verse": "vv. 1, 6",
+  "riemenschneider": "263",
+  "bwv": "0227/1, 11"
+ },
+ "229.2": {
+  "hymn": "Komm, Jesu, komm",
+  "verse": "v. 11",
+  "riemenschneider": null,
+  "bwv": "0229/2"
+ },
+ "244.3": {
+  "hymn": "Herzliebster Jesu",
+  "verse": "v. 1",
+  "riemenschneider": "78",
+  "bwv": "0244/3"
+ },
+ "244.10": {
+  "hymn": "O Welt, sieh hier dein Leben",
+  "verse": "v. 5",
+  "riemenschneider": "117",
+  "bwv": "0244/10"
+ },
+ "244.15": {
+  "hymn": "O Haupt voll Blut und Wunden",
+  "verse": "v. 5",
+  "riemenschneider": "98",
+  "bwv": "0244/15"
+ },
+ "244.25": {
+  "hymn": "Was mein Gott will, das g'scheh allzeit",
+  "verse": "v. 1",
+  "riemenschneider": "115",
+  "bwv": "0244/25"
+ },
+ "244.32": {
+  "hymn": "In dich hab ich gehoffet, Herr",
+  "verse": "v. 5",
+  "riemenschneider": "118",
+  "bwv": "0244/32"
+ },
+ "244.37": {
+  "hymn": "O Welt, sieh hier dein Leben",
+  "verse": "v. 3",
+  "riemenschneider": "50",
+  "bwv": "0244/37"
+ },
+ "244.40": {
+  "hymn": "Werde munter, mein Gemüte",
+  "verse": "v. 6",
+  "riemenschneider": "121",
+  "bwv": "0244/40"
+ },
+ "244.44": {
+  "hymn": "Befiehl du deine Wege",
+  "verse": "v. 1",
+  "riemenschneider": "80",
+  "bwv": "0244/44"
+ },
+ "244.46": {
+  "hymn": "Herzliebster Jesu",
+  "verse": "v. 4",
+  "riemenschneider": "105",
+  "bwv": "0244/46"
+ },
+ "244.54": {
+  "hymn": "O Haupt voll Blut und Wunden",
+  "verse": "vv. 1–2",
+  "riemenschneider": "74",
+  "bwv": "0244/54"
+ },
+ "244.62": {
+  "hymn": "O Haupt voll Blut und Wunden",
+  "verse": "v. 9",
+  "riemenschneider": "89",
+  "bwv": "0244/62"
+ },
+ "244b.29": {
+  "hymn": "Meinen Jesum laß ich nicht, weil ...",
+  "verse": "v. 6",
+  "riemenschneider": null,
+  "bwv": "0244b/29"
+ },
+ "245": {
+  "hymn": "From St John Passion",
+  "verse": null,
+  "riemenschneider": "(Rie.)",
+  "bwv": "245"
+ },
+ "245.3": {
+  "hymn": "Herzliebster Jesu",
+  "verse": "v. 7",
+  "riemenschneider": "59",
+  "bwv": "0245/3"
+ },
+ "245.5": {
+  "hymn": "Vater unser im Himmelreich",
+  "verse": "v. 4",
+  "riemenschneider": "47",
+  "bwv": "0245/5"
+ },
+ "245.11": {
+  "hymn": "O Welt, sieh hier dein Leben",
+  "verse": "vv. 3–4",
+  "riemenschneider": "63",
+  "bwv": "0245/11"
+ },
+ "245.14": {
+  "hymn": "Jesu Leiden, Pein und Tod",
+  "verse": "v. 10",
+  "riemenschneider": "83",
+  "bwv": "0245/14"
+ },
+ "245.15": {
+  "hymn": "Christus, der uns selig macht",
+  "verse": "v. 1",
+  "riemenschneider": "81",
+  "bwv": "0245/15"
+ },
+ "245.17": {
+  "hymn": "Herzliebster Jesu",
+  "verse": "vv. 8–9",
+  "riemenschneider": "111",
+  "bwv": "0245/17"
+ },
+ "245.22": {
+  "hymn": "Durch dein Gefängnis, Gottes Sohn (1 v.)",
+  "verse": null,
+  "riemenschneider": "310",
+  "bwv": "0245/22"
+ },
+ "245.26": {
+  "hymn": "Valet will ich dir geben",
+  "verse": "v. 3",
+  "riemenschneider": "108",
+  "bwv": "0245/26"
+ },
+ "245.28": {
+  "hymn": "Jesu Leiden, Pein und Tod",
+  "verse": "v. 20",
+  "riemenschneider": "106",
+  "bwv": "0245/28"
+ },
+ "245.37": {
+  "hymn": "Christus, der uns selig macht",
+  "verse": "v. 8",
+  "riemenschneider": "113",
+  "bwv": "0245/37"
+ },
+ "245.40": {
+  "hymn": "Herzlich lieb hab ich dich, o Herr",
+  "verse": "v. 3",
+  "riemenschneider": "107",
+  "bwv": "0245/40"
+ },
+ "248": {
+  "hymn": "From Christmas Oratorio",
+  "verse": null,
+  "riemenschneider": "(Rie.)",
+  "bwv": "248"
+ },
+ "248.5": {
+  "hymn": "Wie soll ich dich empfangen",
+  "verse": "v. 1",
+  "riemenschneider": "345",
+  "bwv": "0248/5"
+ },
+ "248.9": {
+  "hymn": "Vom Himmel hoch, da komm ich her",
+  "verse": "v. 13",
+  "riemenschneider": "46",
+  "bwv": "0248/9"
+ },
+ "248.12": {
+  "hymn": "Ermuntre dich, mein schwacher Geist",
+  "verse": "v. 9",
+  "riemenschneider": "9",
+  "bwv": "0248/12"
+ },
+ "248.17": {
+  "hymn": "Schaut, schaut, was ist für Wunder dar",
+  "verse": "v. 8",
+  "riemenschneider": null,
+  "bwv": "0248/17"
+ },
+ "248.23": {
+  "hymn": "Wir singen dir, Immanuel",
+  "verse": "v. 2",
+  "riemenschneider": "344",
+  "bwv": "0248/23"
+ },
+ "248.28": {
+  "hymn": "Gelobet seist du, Jesu Christ",
+  "verse": "v. 7",
+  "riemenschneider": null,
+  "bwv": "0248/28"
+ },
+ "248.33": {
+  "hymn": "Fröhlich soll mein Herze springen",
+  "verse": "v. 15",
+  "riemenschneider": "139",
+  "bwv": "0248/33"
+ },
+ "248.35": {
+  "hymn": "Lasst Furcht und Pein",
+  "verse": "v. 4",
+  "riemenschneider": "360",
+  "bwv": "0248/35"
+ },
+ "248.42": {
+  "hymn": "Hilf, Herr Jesu, laß gelingen",
+  "verse": "v. 5",
+  "riemenschneider": "368",
+  "bwv": "0248/42"
+ },
+ "248.46": {
+  "hymn": "Nun, liebe Seel, nun ist es Zeit",
+  "verse": "v. 5",
+  "riemenschneider": "77",
+  "bwv": "0248/46"
+ },
+ "248.53": {
+  "hymn": "Ihr Gestirn, ihr hohlen Lüfte",
+  "verse": "v. 9",
+  "riemenschneider": "35",
+  "bwv": "0248/53"
+ },
+ "248.59": {
+  "hymn": "Ich steh an deiner Krippen hier",
+  "verse": "v. 1",
+  "riemenschneider": "362",
+  "bwv": "0248/59"
+ },
+ "248.64": {
+  "hymn": "Ihr Christen, auserkoren",
+  "verse": "v. 4",
+  "riemenschneider": null,
+  "bwv": "0248/64"
+ },
+ "250": {
+  "hymn": "Was Gott tut, das ist wohlgetan",
+  "verse": null,
+  "riemenschneider": "347",
+  "bwv": "0250"
+ },
+ "251": {
+  "hymn": "Sei Lob und Ehr dem höchsten Gut",
+  "verse": null,
+  "riemenschneider": "329",
+  "bwv": "0251"
+ },
+ "252": {
+  "hymn": "Nun danket alle Gott",
+  "verse": null,
+  "riemenschneider": "330",
+  "bwv": "0252"
+ },
+ "253": {
+  "hymn": "Ach bleib bei uns, Herr Jesu Christ",
+  "verse": null,
+  "riemenschneider": "177",
+  "bwv": "0253"
+ },
+ "254": {
+  "hymn": "Ach Gott, erhör mein Seufzen",
+  "verse": null,
+  "riemenschneider": "186",
+  "bwv": "0254"
+ },
+ "255": {
+  "hymn": "Ach Gott und Herr",
+  "verse": null,
+  "riemenschneider": "40",
+  "bwv": "0255"
+ },
+ "256": {
+  "hymn": "Ach lieben Christen, seid getrost",
+  "verse": null,
+  "riemenschneider": "31",
+  "bwv": "0256"
+ },
+ "257": {
+  "hymn": "Wär Gott nicht mit uns diese Zeit",
+  "verse": null,
+  "riemenschneider": "285",
+  "bwv": "0257"
+ },
+ "258": {
+  "hymn": "Wo Gott der Herr nicht bei uns hält",
+  "verse": null,
+  "riemenschneider": "336",
+  "bwv": "0258"
+ },
+ "259": {
+  "hymn": "Ach, was soll ich Sünder machen",
+  "verse": null,
+  "riemenschneider": "39",
+  "bwv": "0259"
+ },
+ "260": {
+  "hymn": "Allein Gott in der Höh sei Ehr",
+  "verse": null,
+  "riemenschneider": "249",
+  "bwv": "0260"
+ },
+ "261": {
+  "hymn": "Allein zu dir, Herr Jesu Christ",
+  "verse": null,
+  "riemenschneider": "359",
+  "bwv": "0261"
+ },
+ "262": {
+  "hymn": "Alle Menschen müssen sterben",
+  "verse": null,
+  "riemenschneider": "153",
+  "bwv": "0262"
+ },
+ "263": {
+  "hymn": "Alles ist an Gottes Segen",
+  "verse": null,
+  "riemenschneider": "128",
+  "bwv": "0263"
+ },
+ "264": {
+  "hymn": "Als der gütige Gott",
+  "verse": null,
+  "riemenschneider": "159",
+  "bwv": "0264"
+ },
+ "265": {
+  "hymn": "Als Jesus Christus in der Nacht",
+  "verse": null,
+  "riemenschneider": "180",
+  "bwv": "0265"
+ },
+ "266": {
+  "hymn": "Als vierzig Tag nach Ostern warn",
+  "verse": null,
+  "riemenschneider": "208",
+  "bwv": "0266"
+ },
+ "267": {
+  "hymn": "An Wasserflüssen Babylon",
+  "verse": null,
+  "riemenschneider": "5",
+  "bwv": "0267"
+ },
+ "268": {
+  "hymn": "Auf, auf, mein Herz, und du mein ganzer ...",
+  "verse": null,
+  "riemenschneider": "124",
+  "bwv": "0268"
+ },
+ "269": {
+  "hymn": "Aus meines Herzens Grunde",
+  "verse": null,
+  "riemenschneider": "1",
+  "bwv": "0269"
+ },
+ "270": {
+  "hymn": "Befiehl du deine Wege",
+  "verse": null,
+  "riemenschneider": "286",
+  "bwv": "0270"
+ },
+ "271": {
+  "hymn": "Befiehl du deine Wege",
+  "verse": null,
+  "riemenschneider": "367",
+  "bwv": "0271"
+ },
+ "272": {
+  "hymn": "Befiehl du deine Wege",
+  "verse": null,
+  "riemenschneider": "340",
+  "bwv": "0272"
+ },
+ "273": {
+  "hymn": "Christ, der du bist der helle Tag",
+  "verse": null,
+  "riemenschneider": "230",
+  "bwv": "0273"
+ },
+ "274": {
+  "hymn": "Christe, der du bist Tag und Licht",
+  "verse": null,
+  "riemenschneider": "245",
+  "bwv": "0274"
+ },
+ "275": {
+  "hymn": "Christe, du Beistand deiner Kreuzgemeine",
+  "verse": null,
+  "riemenschneider": "210",
+  "bwv": "0275"
+ },
+ "276": {
+  "hymn": "Christ ist erstanden",
+  "verse": null,
+  "riemenschneider": "197",
+  "bwv": "0276"
+ },
+ "277": {
+  "hymn": "Christ lag in Todesbanden",
+  "verse": null,
+  "riemenschneider": "15",
+  "bwv": "0277"
+ },
+ "278": {
+  "hymn": "Christ lag in Todesbanden",
+  "verse": null,
+  "riemenschneider": "371",
+  "bwv": "0278"
+ },
+ "279": {
+  "hymn": "Christ lag in Todesbanden",
+  "verse": null,
+  "riemenschneider": "261",
+  "bwv": "0279"
+ },
+ "280": {
+  "hymn": "Christ unser Herr zum Jordan kam",
+  "verse": null,
+  "riemenschneider": "66",
+  "bwv": "0280"
+ },
+ "281": {
+  "hymn": "Christus, der ist mein Leben",
+  "verse": null,
+  "riemenschneider": "6",
+  "bwv": "0281"
+ },
+ "282": {
+  "hymn": "Christus, der ist mein Leben",
+  "verse": null,
+  "riemenschneider": "316",
+  "bwv": "0282"
+ },
+ "283": {
+  "hymn": "Christus, der uns selig macht",
+  "verse": null,
+  "riemenschneider": "198",
+  "bwv": "0283"
+ },
+ "284": {
+  "hymn": "Christus ist erstanden, hat überwunden",
+  "verse": null,
+  "riemenschneider": "200",
+  "bwv": "0284"
+ },
+ "285": {
+  "hymn": "Da der Herr Christ zu Tische saß",
+  "verse": null,
+  "riemenschneider": "196",
+  "bwv": "0285"
+ },
+ "286": {
+  "hymn": "Danket dem Herrn, denn er ist sehr...",
+  "verse": null,
+  "riemenschneider": "228",
+  "bwv": "0286"
+ },
+ "287": {
+  "hymn": "Dank sei Gott in der Höhe",
+  "verse": null,
+  "riemenschneider": "311",
+  "bwv": "0287"
+ },
+ "288": {
+  "hymn": "Das alte Jahr vergangen ist",
+  "verse": null,
+  "riemenschneider": "162",
+  "bwv": "0288"
+ },
+ "289": {
+  "hymn": "Das alte Jahr vergangen ist",
+  "verse": null,
+  "riemenschneider": "314",
+  "bwv": "0289"
+ },
+ "290": {
+  "hymn": "Das walt Gott Vater und Gott Sohn",
+  "verse": null,
+  "riemenschneider": "224",
+  "bwv": "0290"
+ },
+ "291": {
+  "hymn": "Das walt mein Gott",
+  "verse": null,
+  "riemenschneider": "75",
+  "bwv": "0291"
+ },
+ "292": {
+  "hymn": "Den Vater dort oben",
+  "verse": null,
+  "riemenschneider": "239",
+  "bwv": "0292"
+ },
+ "293": {
+  "hymn": "Der du bist drei in Einigkeit",
+  "verse": null,
+  "riemenschneider": "154",
+  "bwv": "0293"
+ },
+ "294": {
+  "hymn": "Der Tag, der ist so freudenreich",
+  "verse": null,
+  "riemenschneider": "158",
+  "bwv": "0294"
+ },
+ "295": {
+  "hymn": "Des Heilgen Geistes reiche Gnad",
+  "verse": null,
+  "riemenschneider": "207",
+  "bwv": "0295"
+ },
+ "296": {
+  "hymn": "Die Nacht ist kommen",
+  "verse": null,
+  "riemenschneider": "231",
+  "bwv": "0296"
+ },
+ "297": {
+  "hymn": "Die Sonn hat sich mit ihrem Glanz",
+  "verse": null,
+  "riemenschneider": "232",
+  "bwv": "0297"
+ },
+ "298": {
+  "hymn": "Dies sind die heilgen zehn Gebot",
+  "verse": null,
+  "riemenschneider": "127",
+  "bwv": "0298"
+ },
+ "299": {
+  "hymn": "Dir, dir, Jehova, will ich singen",
+  "verse": null,
+  "riemenschneider": "209",
+  "bwv": "0299"
+ },
+ "300": {
+  "hymn": "Du großer Schmerzensmann",
+  "verse": null,
+  "riemenschneider": "167",
+  "bwv": "0300"
+ },
+ "301": {
+  "hymn": "Du, o schönes Weltgebäude",
+  "verse": null,
+  "riemenschneider": "134",
+  "bwv": "0301"
+ },
+ "302": {
+  "hymn": "Ein feste Burg ist unser Gott",
+  "verse": null,
+  "riemenschneider": "20",
+  "bwv": "0302"
+ },
+ "303": {
+  "hymn": "Ein feste Burg ist unser Gott",
+  "verse": null,
+  "riemenschneider": "250",
+  "bwv": "0303"
+ },
+ "304": {
+  "hymn": "Eins ist not, ach Herr, dies Eine",
+  "verse": null,
+  "riemenschneider": "280",
+  "bwv": "0304"
+ },
+ "305": {
+  "hymn": "Erbarm dich mein, o Herre Gott",
+  "verse": null,
+  "riemenschneider": "34",
+  "bwv": "0305"
+ },
+ "306": {
+  "hymn": "Erstanden ist der heilge Christ",
+  "verse": null,
+  "riemenschneider": "176",
+  "bwv": "0306"
+ },
+ "307": {
+  "hymn": "Es ist gewißlich an der Zeit",
+  "verse": null,
+  "riemenschneider": "260",
+  "bwv": "0307"
+ },
+ "308": {
+  "hymn": "Es spricht der Unweisen Mund wohl",
+  "verse": null,
+  "riemenschneider": "27",
+  "bwv": "0308"
+ },
+ "309": {
+  "hymn": "Es stehn vor Gottes Throne",
+  "verse": null,
+  "riemenschneider": "166",
+  "bwv": "0309"
+ },
+ "310": {
+  "hymn": "Es wird schier der letzte Tag herkommen",
+  "verse": null,
+  "riemenschneider": "238",
+  "bwv": "0310"
+ },
+ "311": {
+  "hymn": "Es woll uns Gott genädig sein",
+  "verse": null,
+  "riemenschneider": "16",
+  "bwv": "0311"
+ },
+ "312": {
+  "hymn": "Es woll uns Gott genädig sein",
+  "verse": null,
+  "riemenschneider": "352",
+  "bwv": "0312"
+ },
+ "313": {
+  "hymn": "Für Freuden laßt uns springen",
+  "verse": null,
+  "riemenschneider": "163",
+  "bwv": "0313"
+ },
+ "314": {
+  "hymn": "Gelobet seist du, Jesu Christ",
+  "verse": null,
+  "riemenschneider": "288",
+  "bwv": "0314"
+ },
+ "315": {
+  "hymn": "Gib dich zufrieden und sei stille",
+  "verse": null,
+  "riemenschneider": "271",
+  "bwv": "0315"
+ },
+ "316": {
+  "hymn": "Gott, der du selber bist das Licht",
+  "verse": null,
+  "riemenschneider": "225",
+  "bwv": "0316"
+ },
+ "317": {
+  "hymn": "Gott der Vater wohn uns bei",
+  "verse": null,
+  "riemenschneider": "135",
+  "bwv": "0317"
+ },
+ "318": {
+  "hymn": "Gottes Sohn ist kommen",
+  "verse": null,
+  "riemenschneider": "18",
+  "bwv": "0318"
+ },
+ "319": {
+  "hymn": "Gott hat das Evangelium",
+  "verse": null,
+  "riemenschneider": "181",
+  "bwv": "0319"
+ },
+ "320": {
+  "hymn": "Gott lebet noch",
+  "verse": null,
+  "riemenschneider": "234",
+  "bwv": "0320"
+ },
+ "321": {
+  "hymn": "Gottlob, es geht nunmehr zu Ende",
+  "verse": null,
+  "riemenschneider": "192",
+  "bwv": "0321"
+ },
+ "322": {
+  "hymn": "Gott sei gelobet und gebenedeiet",
+  "verse": null,
+  "riemenschneider": "70",
+  "bwv": "0322"
+ },
+ "323": {
+  "hymn": "Gott sei uns gnädig und barmherzig",
+  "verse": null,
+  "riemenschneider": "320",
+  "bwv": "0323"
+ },
+ "324": {
+  "hymn": "Meine Seele erhebet den Herren",
+  "verse": null,
+  "riemenschneider": "130",
+  "bwv": "0324"
+ },
+ "325": {
+  "hymn": "Heilig, heilig (or)Sanctus, Sanctus Dominus Deus Sabaoth",
+  "verse": null,
+  "riemenschneider": "235",
+  "bwv": "0325"
+ },
+ "326": {
+  "hymn": "Herr Gott, dich loben alle wir",
+  "verse": null,
+  "riemenschneider": "164",
+  "bwv": "0326"
+ },
+ "327": {
+  "hymn": "Vor deinen Thron tret ich hiermit",
+  "verse": null,
+  "riemenschneider": "334",
+  "bwv": "0327"
+ },
+ "328": {
+  "hymn": "Herr Gott, dich loben wir",
+  "verse": null,
+  "riemenschneider": "205",
+  "bwv": "0328"
+ },
+ "329": {
+  "hymn": "Herr, ich denk an jene Zeit",
+  "verse": null,
+  "riemenschneider": "212",
+  "bwv": "0329"
+ },
+ "330": {
+  "hymn": "Herr, ich habe mißgehandelt",
+  "verse": null,
+  "riemenschneider": "33",
+  "bwv": "0330"
+ },
+ "331": {
+  "hymn": "Herr, ich habe mißgehandelt",
+  "verse": null,
+  "riemenschneider": "287",
+  "bwv": "0331"
+ },
+ "332": {
+  "hymn": "Herr Jesu Christ, dich zu uns wend",
+  "verse": null,
+  "riemenschneider": "136",
+  "bwv": "0332"
+ },
+ "333": {
+  "hymn": "Herr Jesu Christ, du hast bereit't",
+  "verse": null,
+  "riemenschneider": "226",
+  "bwv": "0333"
+ },
+ "334": {
+  "hymn": "Herr Jesu Christ, du höchstes Gut",
+  "verse": null,
+  "riemenschneider": "73",
+  "bwv": "0334"
+ },
+ "335": {
+  "hymn": "Herr Jesu Christ, meins Lebens Licht",
+  "verse": null,
+  "riemenschneider": "295",
+  "bwv": "0335"
+ },
+ "336": {
+  "hymn": "Herr Jesu Christ, wahr Mensch und Gott",
+  "verse": null,
+  "riemenschneider": "189",
+  "bwv": "0336"
+ },
+ "337": {
+  "hymn": "Herr, nun laß in Friede",
+  "verse": null,
+  "riemenschneider": "190",
+  "bwv": "0337"
+ },
+ "338": {
+  "hymn": "Herr, straf mich nicht in deinem Zorn",
+  "verse": null,
+  "riemenschneider": "221",
+  "bwv": "0338"
+ },
+ "339": {
+  "hymn": "Wer in dem Schutz des Höchsten ist",
+  "verse": null,
+  "riemenschneider": "144",
+  "bwv": "0339"
+ },
+ "340": {
+  "hymn": "Herzlich lieb hab ich dich, o Herr",
+  "verse": null,
+  "riemenschneider": "277",
+  "bwv": "0340"
+ },
+ "341": {
+  "hymn": "Heut ist, o Mensch, ein großer Trauertag",
+  "verse": null,
+  "riemenschneider": "168",
+  "bwv": "0341"
+ },
+ "342": {
+  "hymn": "Heut triumphieret Gottes Sohn",
+  "verse": null,
+  "riemenschneider": "79",
+  "bwv": "0342"
+ },
+ "343": {
+  "hymn": "Hilf, Gott, daß mirs gelinge",
+  "verse": null,
+  "riemenschneider": "199",
+  "bwv": "0343"
+ },
+ "344": {
+  "hymn": "Hilf, Herr Jesu, laß gelingen",
+  "verse": null,
+  "riemenschneider": "155",
+  "bwv": "0344"
+ },
+ "345": {
+  "hymn": "Ich bin ja, Herr, in deiner Macht",
+  "verse": null,
+  "riemenschneider": "251",
+  "bwv": "0345"
+ },
+ "346": {
+  "hymn": "Ich dank dir, Gott, für all Wohltat",
+  "verse": null,
+  "riemenschneider": "223",
+  "bwv": "0346"
+ },
+ "347": {
+  "hymn": "Ich dank dir, lieber Herre",
+  "verse": null,
+  "riemenschneider": "2",
+  "bwv": "0347"
+ },
+ "348": {
+  "hymn": "Ich dank dir, lieber Herre",
+  "verse": null,
+  "riemenschneider": "272",
+  "bwv": "0348"
+ },
+ "349": {
+  "hymn": "Ich dank dir schon durch deinen Sohn",
+  "verse": null,
+  "riemenschneider": "188",
+  "bwv": "0349"
+ },
+ "350": {
+  "hymn": "Ich danke dir, o Gott, in deinem Throne",
+  "verse": null,
+  "riemenschneider": "229",
+  "bwv": "0350"
+ },
+ "351": {
+  "hymn": "Ich hab mein Sach Gott heimgestellt",
+  "verse": null,
+  "riemenschneider": "19",
+  "bwv": "0351"
+ },
+ "352": {
+  "hymn": "Jesu, der du meine Seele",
+  "verse": null,
+  "riemenschneider": "37",
+  "bwv": "0352"
+ },
+ "353": {
+  "hymn": "Jesu, der du meine Seele",
+  "verse": null,
+  "riemenschneider": "269",
+  "bwv": "0353"
+ },
+ "354": {
+  "hymn": "Jesu, der du meine Seele",
+  "verse": null,
+  "riemenschneider": "369",
+  "bwv": "0354"
+ },
+ "355": {
+  "hymn": "Jesu, der du selbsten wohl",
+  "verse": null,
+  "riemenschneider": "169",
+  "bwv": "0355"
+ },
+ "356": {
+  "hymn": "Jesu, du mein liebstes Leben",
+  "verse": null,
+  "riemenschneider": "243",
+  "bwv": "0356"
+ },
+ "357": {
+  "hymn": "Jesu, Jesu, du bist mein",
+  "verse": null,
+  "riemenschneider": "244",
+  "bwv": "0357"
+ },
+ "358": {
+  "hymn": "Jesu, meine Freude",
+  "verse": null,
+  "riemenschneider": "356",
+  "bwv": "0358"
+ },
+ "359": {
+  "hymn": "Jesu meiner Seelen Wonne",
+  "verse": null,
+  "riemenschneider": "365",
+  "bwv": "0359"
+ },
+ "360": {
+  "hymn": "Jesu, meiner Seelen Wonne",
+  "verse": null,
+  "riemenschneider": "350",
+  "bwv": "0360"
+ },
+ "361": {
+  "hymn": "Jesu, meines Herzens Freud",
+  "verse": null,
+  "riemenschneider": "264",
+  "bwv": "0361"
+ },
+ "362": {
+  "hymn": "Jesu, nun sei gepreiset",
+  "verse": null,
+  "riemenschneider": "252",
+  "bwv": "0362"
+ },
+ "363": {
+  "hymn": "Jesus Christus, unser Heiland, der von uns ...",
+  "verse": null,
+  "riemenschneider": "30",
+  "bwv": "0363"
+ },
+ "364": {
+  "hymn": "Jesus Christus, unser Heiland, der den Tod ...",
+  "verse": null,
+  "riemenschneider": "174",
+  "bwv": "0364"
+ },
+ "365": {
+  "hymn": "Jesus, meine Zuversicht",
+  "verse": null,
+  "riemenschneider": "175",
+  "bwv": "0365"
+ },
+ "366": {
+  "hymn": "Ihr Gestirn, ihr hohlen Lüfte",
+  "verse": null,
+  "riemenschneider": "161",
+  "bwv": "0366"
+ },
+ "367": {
+  "hymn": "In allen meinen Taten",
+  "verse": null,
+  "riemenschneider": "140",
+  "bwv": "0367"
+ },
+ "368": {
+  "hymn": "In dulci jubilo",
+  "verse": null,
+  "riemenschneider": "143",
+  "bwv": "0368"
+ },
+ "369": {
+  "hymn": "Keinen hat Gott verlassen",
+  "verse": null,
+  "riemenschneider": "129",
+  "bwv": "0369"
+ },
+ "370": {
+  "hymn": "Komm, Gott Schöpfer, Heiliger Geist",
+  "verse": null,
+  "riemenschneider": "187",
+  "bwv": "0370"
+ },
+ "371": {
+  "hymn": "Kyrie, Gott Vater in Ewigkeit",
+  "verse": null,
+  "riemenschneider": "132",
+  "bwv": "0371"
+ },
+ "372": {
+  "hymn": "Lass, o Herr, dein Ohr sich neigen",
+  "verse": null,
+  "riemenschneider": "218",
+  "bwv": "0372"
+ },
+ "373": {
+  "hymn": "Liebster Jesu, wir sind hier",
+  "verse": null,
+  "riemenschneider": "131",
+  "bwv": "0373"
+ },
+ "374": {
+  "hymn": "Lobet den Herren, denn er ist sehr ...",
+  "verse": null,
+  "riemenschneider": "227",
+  "bwv": "0374"
+ },
+ "375": {
+  "hymn": "Lobt Gott, ihr Christen, allzugleich",
+  "verse": null,
+  "riemenschneider": "276",
+  "bwv": "0375"
+ },
+ "376": {
+  "hymn": "Lobt Gott, ihr Christen, allzugleich",
+  "verse": null,
+  "riemenschneider": "342",
+  "bwv": "0376"
+ },
+ "377": {
+  "hymn": "Machs mit mir, Gott, nach deiner Güt",
+  "verse": null,
+  "riemenschneider": "44",
+  "bwv": "0377"
+ },
+ "378": {
+  "hymn": "Mein Augen schließ ich jetzt",
+  "verse": null,
+  "riemenschneider": "258",
+  "bwv": "0378"
+ },
+ "379": {
+  "hymn": "Meinen Jesum laß ich nicht, Jesus ...",
+  "verse": null,
+  "riemenschneider": "151",
+  "bwv": "0379"
+ },
+ "380": {
+  "hymn": "Meinen Jesum laß ich nicht, weil ...",
+  "verse": null,
+  "riemenschneider": "299",
+  "bwv": "0380"
+ },
+ "381": {
+  "hymn": "Meines Lebens letzte Zeit",
+  "verse": null,
+  "riemenschneider": "346",
+  "bwv": "0381"
+ },
+ "382": {
+  "hymn": "Mit Fried und Freud ich fahr dahin",
+  "verse": null,
+  "riemenschneider": "49",
+  "bwv": "0382"
+ },
+ "383": {
+  "hymn": "Mitten wir im Leben sind",
+  "verse": null,
+  "riemenschneider": "214",
+  "bwv": "0383"
+ },
+ "384": {
+  "hymn": "Nicht so traurig, nicht so sehr",
+  "verse": null,
+  "riemenschneider": "149",
+  "bwv": "0384"
+ },
+ "385": {
+  "hymn": "Nun bitten wir den Heiligen Geist",
+  "verse": null,
+  "riemenschneider": "36",
+  "bwv": "0385"
+ },
+ "386": {
+  "hymn": "Nun danket alle Gott",
+  "verse": null,
+  "riemenschneider": "32",
+  "bwv": "0386"
+ },
+ "387": {
+  "hymn": "Nun freut euch, Gottes Kinder all",
+  "verse": null,
+  "riemenschneider": "185",
+  "bwv": "0387"
+ },
+ "388": {
+  "hymn": "Nun freut euch, lieben Christen g'mein",
+  "verse": null,
+  "riemenschneider": "183",
+  "bwv": "0388"
+ },
+ "389": {
+  "hymn": "Nun lob, mein Seel, den Herren",
+  "verse": null,
+  "riemenschneider": "268",
+  "bwv": "0389"
+ },
+ "390": {
+  "hymn": "Nun lob, mein Seel, den Herren",
+  "verse": null,
+  "riemenschneider": "296",
+  "bwv": "0390"
+ },
+ "391": {
+  "hymn": "Nun preiset alle Gottes Barmherzigkeit",
+  "verse": null,
+  "riemenschneider": "222",
+  "bwv": "0391"
+ },
+ "392": {
+  "hymn": "Nun ruhen alle Wälder",
+  "verse": null,
+  "riemenschneider": "289",
+  "bwv": "0392"
+ },
+ "393": {
+  "hymn": "O Welt, sieh hier dein Leben",
+  "verse": null,
+  "riemenschneider": "275",
+  "bwv": "0393"
+ },
+ "394": {
+  "hymn": "O Welt, sieh hier dein Leben",
+  "verse": null,
+  "riemenschneider": "366",
+  "bwv": "0394"
+ },
+ "395": {
+  "hymn": "O Welt, sieh hier dein Leben",
+  "verse": null,
+  "riemenschneider": "363",
+  "bwv": "0395"
+ },
+ "396": {
+  "hymn": "Nun sich der Tag geendet hat [choralwiki]",
+  "verse": null,
+  "riemenschneider": "240",
+  "bwv": "0396"
+ },
+ "397": {
+  "hymn": "O Ewigkeit, du Donnerwort",
+  "verse": null,
+  "riemenschneider": "274",
+  "bwv": "0397"
+ },
+ "398": {
+  "hymn": "O Gott, du frommer Gott",
+  "verse": null,
+  "riemenschneider": "312",
+  "bwv": "0398"
+ },
+ "399": {
+  "hymn": "O Gott, du frommer Gott",
+  "verse": null,
+  "riemenschneider": "315",
+  "bwv": "0399"
+ },
+ "400": {
+  "hymn": "O Herzensangst, o Bangigkeit",
+  "verse": null,
+  "riemenschneider": "173",
+  "bwv": "0400"
+ },
+ "401": {
+  "hymn": "O Lamm Gottes, unschuldig",
+  "verse": null,
+  "riemenschneider": "165",
+  "bwv": "0401"
+ },
+ "402": {
+  "hymn": "O Mensch, bewein dein Sünde groß",
+  "verse": null,
+  "riemenschneider": "201",
+  "bwv": "0402"
+ },
+ "403": {
+  "hymn": "O Mensch, schau Jesum Christum an",
+  "verse": null,
+  "riemenschneider": "203",
+  "bwv": "0403"
+ },
+ "404": {
+  "hymn": "O Traurigkeit, o Herzeleid",
+  "verse": null,
+  "riemenschneider": "57",
+  "bwv": "0404"
+ },
+ "405": {
+  "hymn": "O wie selig seid ihr doch, ihr Frommen",
+  "verse": null,
+  "riemenschneider": "213",
+  "bwv": "0405"
+ },
+ "406": {
+  "hymn": "O wie selig seid ihr doch, ihr Frommen",
+  "verse": null,
+  "riemenschneider": "219",
+  "bwv": "0406"
+ },
+ "407": {
+  "hymn": "O wir armen Sünder",
+  "verse": null,
+  "riemenschneider": "202",
+  "bwv": "0407"
+ },
+ "408": {
+  "hymn": "Schaut, ihr Sünder",
+  "verse": null,
+  "riemenschneider": "171",
+  "bwv": "0408"
+ },
+ "409": {
+  "hymn": "Seelenbräutigam",
+  "verse": null,
+  "riemenschneider": "141",
+  "bwv": "0409"
+ },
+ "410": {
+  "hymn": "Sei gegrüßet, Jesu gütig",
+  "verse": null,
+  "riemenschneider": "172",
+  "bwv": "0410"
+ },
+ "411": {
+  "hymn": "Singt dem Herrn ein neues Lied",
+  "verse": null,
+  "riemenschneider": "246",
+  "bwv": "0411"
+ },
+ "412": {
+  "hymn": "So gibst du nun, mein Jesu, gute Nacht",
+  "verse": null,
+  "riemenschneider": "206",
+  "bwv": "0412"
+ },
+ "413": {
+  "hymn": "Sollt ich meinem Gott nicht singen",
+  "verse": null,
+  "riemenschneider": "220",
+  "bwv": "0413"
+ },
+ "414": {
+  "hymn": "Uns ist ein Kindlein heut geborn",
+  "verse": null,
+  "riemenschneider": "148",
+  "bwv": "0414"
+ },
+ "415": {
+  "hymn": "Valet will ich dir geben",
+  "verse": null,
+  "riemenschneider": "24",
+  "bwv": "0415"
+ },
+ "416": {
+  "hymn": "Vater unser im Himmelreich",
+  "verse": null,
+  "riemenschneider": "47",
+  "bwv": "0416"
+ },
+ "417": {
+  "hymn": "Von Gott will ich nicht lassen",
+  "verse": null,
+  "riemenschneider": "364",
+  "bwv": "0417"
+ },
+ "418": {
+  "hymn": "Von Gott will ich nicht lassen",
+  "verse": null,
+  "riemenschneider": "332",
+  "bwv": "0418"
+ },
+ "419": {
+  "hymn": "Von Gott will ich nicht lassen",
+  "verse": null,
+  "riemenschneider": "114",
+  "bwv": "0419"
+ },
+ "420": {
+  "hymn": "Warum betrübst du dich, mein Herz",
+  "verse": null,
+  "riemenschneider": "145",
+  "bwv": "0420"
+ },
+ "421": {
+  "hymn": "Warum betrübst du dich, mein Herz",
+  "verse": null,
+  "riemenschneider": "300",
+  "bwv": "0421"
+ },
+ "422": {
+  "hymn": "Warum sollt ich mich denn grämen",
+  "verse": null,
+  "riemenschneider": "357",
+  "bwv": "0422"
+ },
+ "423": {
+  "hymn": "Was betrübst du dich, mein Herze",
+  "verse": null,
+  "riemenschneider": "237",
+  "bwv": "0423"
+ },
+ "424": {
+  "hymn": "Was bist du doch, o Seele, so betrübet",
+  "verse": null,
+  "riemenschneider": "193",
+  "bwv": "0424"
+ },
+ "425": {
+  "hymn": "Was willst du dich, o meine Seele, kränken",
+  "verse": null,
+  "riemenschneider": "241",
+  "bwv": "0425"
+ },
+ "426": {
+  "hymn": "Weltlich Ehr und zeitlich Gut",
+  "verse": null,
+  "riemenschneider": "211",
+  "bwv": "0426"
+ },
+ "427": {
+  "hymn": "Wenn ich in Angst und Not",
+  "verse": null,
+  "riemenschneider": "147",
+  "bwv": "0427"
+ },
+ "428": {
+  "hymn": "Wenn mein Stündlein vorhanden ist",
+  "verse": null,
+  "riemenschneider": "322",
+  "bwv": "0428"
+ },
+ "429": {
+  "hymn": "Wenn mein Stündlein vorhanden ist",
+  "verse": null,
+  "riemenschneider": "52",
+  "bwv": "0429"
+ },
+ "430": {
+  "hymn": "Wenn mein Stündlein vorhanden ist",
+  "verse": null,
+  "riemenschneider": "351",
+  "bwv": "0430"
+ },
+ "431": {
+  "hymn": "Wenn wir in höchsten Nöten sein",
+  "verse": null,
+  "riemenschneider": "68",
+  "bwv": "0431"
+ },
+ "432": {
+  "hymn": "Wenn wir in höchsten Nöten sein",
+  "verse": null,
+  "riemenschneider": "247",
+  "bwv": "0432"
+ },
+ "433": {
+  "hymn": "Wer Gott vertraut, hat wohl gebaut",
+  "verse": null,
+  "riemenschneider": "137",
+  "bwv": "0433"
+ },
+ "434": {
+  "hymn": "Wer nur den lieben Gott läßt walten",
+  "verse": null,
+  "riemenschneider": "146",
+  "bwv": "0434"
+ },
+ "435": {
+  "hymn": "Wie bist du, Seele, in mir so gar betrübt",
+  "verse": null,
+  "riemenschneider": "242",
+  "bwv": "0435"
+ },
+ "436": {
+  "hymn": "Wie schön leuchtet der Morgenstern",
+  "verse": null,
+  "riemenschneider": "278",
+  "bwv": "0436"
+ },
+ "437": {
+  "hymn": "Wir glauben all an einen Gott, Schöpfer ...",
+  "verse": null,
+  "riemenschneider": "133",
+  "bwv": "0437"
+ },
+ "438": {
+  "hymn": "Wo Gott zum Haus nicht gibt sein Gunst",
+  "verse": null,
+  "riemenschneider": "157",
+  "bwv": "0438"
+ },
+ "441": {
+  "hymn": "Auf, auf, mein Herz, mit Freuden",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0441"
+ },
+ "443": {
+  "hymn": "Beschränkt, ihr Weisen dieser Welt",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0443"
+ },
+ "445": {
+  "hymn": "Brunnquell aller Güter",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0445"
+ },
+ "448": {
+  "hymn": "Der Tag mit seinem Lichte",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0448"
+ },
+ "449": {
+  "hymn": "Dich bet ich an, mein höchster Gott",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0449"
+ },
+ "464": {
+  "hymn": "Ich bin ja, Herr, in deiner Macht",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0464"
+ },
+ "471": {
+  "hymn": "Jesu, deine Liebeswunden",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0471"
+ },
+ "479": {
+  "hymn": "Kommt, Seelen, dieser Tag",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0479"
+ },
+ "480": {
+  "hymn": "Kommt wieder aus der finstern ...",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0480"
+ },
+ "487": {
+  "hymn": "Mein Jesu! was vor Seelenweh",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0487"
+ },
+ "498": {
+  "hymn": "Selig, wer an Jesum denkt",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0498"
+ },
+ "500": {
+  "hymn": "So gehst du nun, mein Jesu, hin",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0500"
+ },
+ "500a": {
+  "hymn": "So gehst du nun, mein Jesu, hin (1 v.)",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0500a"
+ },
+ "503": {
+  "hymn": "Steh ich bei meinem Gott",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "0503"
+ },
+ "1084": {
+  "hymn": "Christus, der uns selig macht (1 v.)",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "1084"
+ },
+ "1089": {
+  "hymn": "Da Jesus an dem Kreuze stund",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "1089"
+ },
+ "1122": {
+  "hymn": "Denket doch, ihr Menschenkinder",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "1122"
+ },
+ "1123": {
+  "hymn": "Wo Gott zum Haus nicht gibt sein Gunst",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "1123"
+ },
+ "1124": {
+  "hymn": "Ich ruf zu dir, Herr Jesu Christ",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "1124"
+ },
+ "1125": {
+  "hymn": "O Gott, du frommer Gott",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "1125"
+ },
+ "1126": {
+  "hymn": "Lobet Gott, unsern Herren",
+  "verse": null,
+  "riemenschneider": null,
+  "bwv": "1126"
+ }
+}

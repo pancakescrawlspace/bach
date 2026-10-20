@@ -1,0 +1,6 @@
+*.mp3
+*.mp4
+.mscbackup/
+.DS_Store
+__pycache__/
+chorales/.results.json
