@@ -25,7 +25,8 @@ Breitkopf edition, keys included: BWV 4/8 is in D minor there, E minor in
 the cantata. Each chorale becomes a closed score like the church scores,
 Women (S, A) and Men (T, B), names hidden, text under the soprano with
 melisma lines; instruments are left out. So `church/tools`
-(`voice-explode-mscz.py`, `score-video.py`) work on them too.
+(`voice-explode-mscz.py`, `score-reflow.py`, `score-video.py`) work on
+them too.
 
 The pitches are checked against the NBA (BCFB) and Breitkopf (Humdrum); a
 note is corrected only where the NBA differs and Breitkopf doesn't side
